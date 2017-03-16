@@ -1,3 +1,5 @@
+I am sorry, but the rules of clean coding are not really applied here, I wrote this code some time ago.
+
 License:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
